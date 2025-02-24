@@ -1,0 +1,20 @@
+{
+    "language": "Language",
+    "theme"   : "Theme",
+    "dark"    : "Dark",
+    "light"   : "Light",
+    "arabic"   : "Arabic",
+    "english"   : "English",
+    "home"    : "Home",
+    "map"     : "Map",
+    "love"    : "Love",
+    "profile" : "Profile",
+    "welcomeBack": "Welcome Back",
+    "all" : "All",
+    "sport" : "Sport",
+    "birthday": "Birthday",
+    "meeting" : "Meeting",
+    "gaming" : "Gaming",
+    "workshop" : "Work Shop",
+    "bookclub" : "Book Club"
+}
