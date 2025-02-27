@@ -10,6 +10,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:provider/provider.dart';
 
 
+
 void main() {
   runApp(MultiProvider(providers: [
       ChangeNotifierProvider(
@@ -28,10 +29,7 @@ class MyApp extends StatelessWidget {
     var languageProvide = Provider.of<AppLanguageProvider>(context);
     var themeProvide = Provider.of<AppThemeProvider>(context);
 
-
-
-
-    if(themeProvide.color==themeProvide){
+    if(themeProvide.color == themeProvide){
       isDark==false;
     }
     Shared_Performance.setPrefrence(languageProvide.currentLanguage, isDark);
