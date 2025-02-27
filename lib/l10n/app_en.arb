@@ -16,5 +16,6 @@
     "meeting" : "Meeting",
     "gaming" : "Gaming",
     "workshop" : "Work Shop",
-    "bookclub" : "Book Club"
+    "bookclub" : "Book Club",
+    "logout" :"Logout"
 }

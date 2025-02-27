@@ -16,5 +16,6 @@
     "meeting" : "اجتماع",
     "gaming" : "لعب",
     "workshop" : "ورشة عمل",
-    "bookclub" : "نادي كتب"
+    "bookclub" : "نادي كتب",
+    "logout"   :"تسجيل خروج"
 }
